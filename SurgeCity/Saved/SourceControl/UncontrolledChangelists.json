@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Levels/Lvl_Prototype_Level.umap",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Assets/Materials/M_FloorBaked.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Assets/Materials/M_Wall.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Assets/LvlDesign/Floor1Modular.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Assets/LvlDesign/Wall1Modular.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Assets/Materials/PNG/Wall1.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Assets/Materials/PNG/FloorBaked.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Codes/Blueprints/Gamemodes/BP_Gamemode_SurgeCity_FPS.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Codes/Blueprints/Player/BP_Player_Controller.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Codes/Blueprints/Player/BP_Player_Character.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Inputs/Mapping_Content/IMC_Player_Inputs.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Inputs/Player_Inputs/IA_Move.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Inputs/Player_Inputs/IA_Look.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Inputs/Player_Inputs/IA_Jump.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Inputs/Player_Inputs/IA_Slide.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Inputs/Player_Inputs/IA_Dash.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Inputs/Player_Inputs/IA_Sprint.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Inputs/Inputs_Action/IA_Move.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Assets/Materials/BrickWall.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Assets/Materials/Floor.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Assets/Materials/M_Floor.uasset",
+				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Assets/Materials/M_BrickWall.uasset"
+			]
+		}
+	]
+}
