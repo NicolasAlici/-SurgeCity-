@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Nicolas/Documents/Development/-Surge City-/Github Project/-SurgeCity-/SurgeCity/Content/SurgeCity/Codes/Blueprints/Player/BP_Player_Character.uasset",
+				"C:/Users/Nicolas/Documents/Development/-Surge City-/Github Project/-SurgeCity-/SurgeCity/Content/SurgeCity/Inputs/Player_Inputs/IA_Sprint.uasset",
 				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Levels/Lvl_Prototype_Level.umap",
 				"D:/Development/-SurgeCity-/Unreal Project/SurgeCity/Content/SurgeCity/Assets/Materials/M_FloorBaked.uasset",
